@@ -1,5 +1,5 @@
 ### Hello there 👋
-<img src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e4775ffdbi8gcdjwffsxufzq0s4we8ewbrycluyahk6&rid=giphy.gif&ct=g" width="100%" height="auto" />
+<img src="https://c.tenor.com/Ctl0j3fh7XcAAAAC/hello-there-kenobi.gif" width="100%" height="auto" />
 
 - 🔭 I’m currently studying at [VKU](https://vku.udn.vn/) and working on a outsourcing company
 - 🌱 I’m currently learning Dart and Flutter
