@@ -1,11 +1,8 @@
-### Hello there 👋
-<img src="https://c.tenor.com/Ctl0j3fh7XcAAAAC/hello-there-kenobi.gif" width="100%" height="auto" />
+### Hello 👋. I'm Anh Tran
+![](https://github-profile-trophy.vercel.app/?username=tsnAnh)
 
-- 🔭 I’m currently studying at [VKU](https://vku.udn.vn/) and working on a outsourcing company
-- 🌱 I’m currently learning Flutter and iOS
-- 👯 I’m looking to collaborate on some open source Android project or etc
-- 🤔 I’m looking for help with Flutter, iOS
-- 💬 Ask me about Kotlin and Android
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anh-tran-si-nguyen-4620891a8/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/tsnAnh)
-- ⚡ Fun fact: People usually call me Ben instead of my real name
+### Languages and Tools
+<p align="left"> <a href="https://developer.android.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsnAnh&show_icons=true&locale=en" alt="tsnAnh" /></p>
