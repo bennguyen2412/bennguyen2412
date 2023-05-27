@@ -1,4 +1,5 @@
 ### Hello 👋. I'm Anh Tran
+#### A passionate middle-senior level mobile developer creating wonderful applications and embracing new technologies to deliver exceptional user experiences.
 ![](https://github-profile-trophy.vercel.app/?username=tsnAnh)
 
 ### Languages and Tools
