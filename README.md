@@ -14,7 +14,7 @@
   - Flutter (**Dart**)  
   - Xamarin (**C#**)  
 
-- Passionate about **AI** with hands-on experience in:  
+- Passionate about **AI & AI Agents** with hands-on experience in:  
   - **Python**  
   - **LangChain**  
   - **LangGraph**  
